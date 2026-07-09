@@ -31,28 +31,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harsh-Amin-OP&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Harsh-Amin-OP&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Harsh-Amin-OP&show_icons=true&theme=default&hide_border=true&count_private=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Amin-OP&layout=compact&theme=github_dark&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Amin-OP&layout=compact&theme=default&hide_border=true&langs_count=8">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Amin-OP&layout=compact&theme=default&hide_border=true&langs_count=8">
-  </picture>
-</p>
-
----
-
-### Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Amin-OP/Harsh-Amin-OP/output/github-snake-dark.svg">
